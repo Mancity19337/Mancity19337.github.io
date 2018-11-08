@@ -2,4 +2,8 @@
 layout: post
 title: NFL Analytics
 ---
-Panthers and Pats superbowl?
+
+![nfl logo](/images/nfl-logo-gradient-1980px.jpg)
+
+
+# Panthers and Pats superbowl?
