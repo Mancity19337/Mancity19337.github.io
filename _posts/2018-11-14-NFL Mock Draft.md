@@ -1,6 +1,6 @@
 ---
-title: NFL Mock Draft
+layout: post
+title: NFL Mock Drafr
 ---
 
-
-2019 NFL Mock Draft
+2019 NFL Draft 
